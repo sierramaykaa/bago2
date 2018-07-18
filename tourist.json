@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Tangadan Falls cliff diving",
-    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/images/tangadan.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/tangadan.jpeg",
     "price": 150,
     "priceCurrency": "Php",
      "lat": 16.6073769,
@@ -19,37 +19,37 @@
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "name": "Thunderbird Resort",
+    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/master/images/thunder.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
+    "priceCurrency": "Php",
     "lat": 16.6073769,
     "lng": 120.3666099
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "name": "Bahay na Bato",
+    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/master/images/bahay.jpg",
     "price": 115,
-    "priceCurrency": "EUR",
+    "priceCurrency": "Php",
    "lat": 16.6073769,
     "lng": 120.3666099
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "name": "Sunset at La Union",
+    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/master/images/sunset.jpg",
     "price": 135,
-    "priceCurrency": "EUR",
+    "priceCurrency": "Php",
    "lat": 16.6073769,
     "lng": 120.3666099
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "name": "Macho Temple",
+    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/master/images/machotemple.JPG",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "Php",
      "lat": 16.6073769,
     "lng": 120.3666099
   }
