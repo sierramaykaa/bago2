@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": " Surf in San Juan",
-    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/sanjuansurf.jpeg",
+    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/images/sanjuansurf.jpg",
     "price": 200,
     "priceCurrency": "Php",
     "lat": 16.6073769,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Tangadan Falls cliff diving",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/images/tangadan.jpeg",
     "price": 150,
     "priceCurrency": "Php",
      "lat": 16.6073769,
