@@ -5,8 +5,8 @@
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/sanjuansurf.jpg",
     "price": 200,
     "priceCurrency": "Php",
-    "lat": 16.6073769,
-    "lng": 120.3666099
+    "lat": 16.6720,
+    "lng": 120.3628
   },
   {
     "id": 148,
@@ -14,8 +14,8 @@
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/tangadan.jpeg",
     "price": 150,
     "priceCurrency": "Php",
-     "lat": 16.6073769,
-    "lng": 120.3666099
+     "lat": 16.6436,
+    "lng": 120.4488
   },
   {
     "id": 201,
@@ -23,8 +23,8 @@
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/thunder.jpg",
     "price": 150,
     "priceCurrency": "Php",
-    "lat": 16.6073769,
-    "lng": 120.3666099
+    "lat": 16.6091,
+    "lng": 120.2865
   },
   {
     "id": 205,
@@ -32,17 +32,17 @@
     "imageUrl": "https://raw.githubusercontent.com/ierramaykaa/bago2/blob/master/images/bahay.jpg",
     "price": 115,
     "priceCurrency": "Php",
-   "lat": 16.6073769,
-    "lng": 120.3666099
+   "lat": 16.50513,
+    "lng": 120.21016
   },
   {
     "id": 210,
-    "name": "Sunset at La Union",
+    "name": "Pindangan Ruins",
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/sunset.jpg",
     "price": 135,
     "priceCurrency": "Php",
-   "lat": 16.6073769,
-    "lng": 120.3666099
+   "lat": 16.5881,
+    "lng": 120.3146
   },
   {
     "id": 211,
@@ -50,7 +50,7 @@
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/machotemple.JPG",
     "price": 90,
     "priceCurrency": "Php",
-     "lat": 16.6073769,
-    "lng": 120.3666099
+     "lat": 16.6212,
+    "lng": 120.3175
   }
 ]
