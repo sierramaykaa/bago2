@@ -52,5 +52,14 @@
     "priceCurrency": "Php",
      "lat": 16.6212,
     "lng": 120.3175
+  },
+   {
+    "id": 313,
+    "name": "House",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/machotemple.JPG",
+    "price": 15,
+    "priceCurrency": "Php",
+     "lat": 16.6921704,
+    "lng":120.3370037
   }
 ]
