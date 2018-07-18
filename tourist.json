@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": " Surf in San Juan",
-    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/images/sanjuansurf.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/images/sanjuansurf.jpg",
     "price": 200,
     "priceCurrency": "Php",
     "lat": 16.6073769,
