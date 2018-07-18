@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": " Surf in San Juan",
-    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/master/images/sanjuansurf.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/sanjuansurf.jpg",
     "price": 200,
     "priceCurrency": "Php",
     "lat": 16.6073769,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Thunderbird Resort",
-    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/master/images/thunder.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/thunder.jpg",
     "price": 150,
     "priceCurrency": "Php",
     "lat": 16.6073769,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Bahay na Bato",
-    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/master/images/bahay.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ierramaykaa/bago2/blob/master/images/bahay.jpg",
     "price": 115,
     "priceCurrency": "Php",
    "lat": 16.6073769,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Sunset at La Union",
-    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/master/images/sunset.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/sunset.jpg",
     "price": 135,
     "priceCurrency": "Php",
    "lat": 16.6073769,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Macho Temple",
-    "imageUrl": "https://github.com/sierramaykaa/bago2/blob/master/images/machotemple.JPG",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/machotemple.JPG",
     "price": 90,
     "priceCurrency": "Php",
      "lat": 16.6073769,
