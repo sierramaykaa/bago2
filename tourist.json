@@ -3,7 +3,7 @@
     "id": 145,
     "name": " Surf in San Juan",
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/sanjuansurf.jpg",
-    "price": 200,
+    "price": "Jeepney: 15",
     "priceCurrency": "Php",
     "lat": 16.6720,
     "lng": 120.3628
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Tangadan Falls cliff diving",
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/tangadan.jpeg",
-    "price": 150,
+    "price": "Jeepney: 25",
     "priceCurrency": "Php",
      "lat": 16.6436,
     "lng": 120.4488
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Thunderbird Resort",
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/thunder.jpg",
-    "price": 150,
+    "price": "Jeepney:10",
     "priceCurrency": "Php",
     "lat": 16.6091,
     "lng": 120.2865
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Bahay na Bato",
     "imageUrl": "https://raw.githubusercontent.com/ierramaykaa/bago2/master/images/bahay.jpg",
-    "price": 115,
+    "price": "Jeepney:30",
     "priceCurrency": "Php",
    "lat": 16.50513,
     "lng": 120.21016
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "Pindangan Ruins",
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/sunset.jpg",
-    "price": 135,
+    "price": "Jeepney:12",
     "priceCurrency": "Php",
    "lat": 16.5881,
     "lng": 120.3146
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Macho Temple",
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/machotemple.JPG",
-    "price": 90,
+    "price": "Jeepney: 8",
     "priceCurrency": "Php",
      "lat": 16.6212,
     "lng": 120.3175
