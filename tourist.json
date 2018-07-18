@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": " Surf in San Juan",
-    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/sanjuansurf.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/sanjuansurf.jpg",
     "price": 200,
     "priceCurrency": "Php",
     "lat": 16.6720,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Tangadan Falls cliff diving",
-    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/tangadan.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/tangadan.jpeg",
     "price": 150,
     "priceCurrency": "Php",
      "lat": 16.6436,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Thunderbird Resort",
-    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/thunder.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/thunder.jpg",
     "price": 150,
     "priceCurrency": "Php",
     "lat": 16.6091,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Bahay na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/ierramaykaa/bago2/blob/master/images/bahay.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/ierramaykaa/bago2/master/images/bahay.jpg",
     "price": 115,
     "priceCurrency": "Php",
    "lat": 16.50513,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Pindangan Ruins",
-    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/sunset.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/sunset.jpg",
     "price": 135,
     "priceCurrency": "Php",
    "lat": 16.5881,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Macho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/blob/master/images/machotemple.JPG",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/machotemple.JPG",
     "price": 90,
     "priceCurrency": "Php",
      "lat": 16.6212,
