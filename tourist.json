@@ -54,6 +54,33 @@
     "lng": 120.3175
   },
    {
+    "id": 231,
+    "name": "Namacpacan Church",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/namacpacan.jpg",
+    "price": 40,
+    "priceCurrency": "Php",
+     "lat": 16.8534985,
+    "lng":120.3743941
+  },
+   {
+    "id": 241,
+    "name": "Gapuz Grape Farm",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/grape.jpg",
+    "price": 30,
+    "priceCurrency": "Php",
+     "lat": 16.4610917,
+    "lng":120.3317155
+  },
+   {
+    "id": 251,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/baluarte.jpg",
+    "price": 40,
+    "priceCurrency": "Php",
+     "lat": 16.856813,
+    "lng":120.3706728
+  },
+   {
     "id": 313,
     "name": "House",
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/house.png",
