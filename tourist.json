@@ -1,1 +1,156 @@
+[
+  {
+    "id": 145,
+    "name": " San Juan",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/sanjuansurf.jpg",
+    "price": 15,
+    "priceCurrency": "Php",
+    "lat": 16.6720,
+    "lng": 120.3628
+  },
+  {
+    "id": 148,
+    "name": "Tangadan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/tangadan.jpeg",
+    "price": 25,
+    "priceCurrency": "Php",
+     "lat": 16.6436,
+    "lng": 120.4488
+  },
+  {
+    "id": 201,
+    "name": "Thunderbird Resort",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/thunder.jpg",
+    "price": 10,
+    "priceCurrency": "Php",
+    "lat": 16.6091,
+    "lng": 120.2865
+  }, 
+  {
+    "id": 205,
+    "name": "Bahay na Bato",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/bahay.jpg",
+    "price": 30,
+    "priceCurrency": "Php",
+   "lat": 16.8472345,
+    "lng": 120.349345
+  },
+  {
+    "id": 210,
+    "name": "Pindangan Ruins",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/sunset.jpg",
+    "price": 12,
+    "priceCurrency": "Php",
+   "lat": 16.5881,
+    "lng": 120.3146
+  },
+  {
+    "id": 211,
+    "name": "Macho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/machotemple.JPG",
+    "price": 8,
+    "priceCurrency": "Php",
+     "lat": 16.6212,
+    "lng": 120.3175
+  },
+   {
+    "id": 231,
+    "name": "Namacpacan Church",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/namacpacan.jpg",
+    "price": 40,
+    "priceCurrency": "Php",
+     "lat": 16.8534985,
+    "lng":120.3743941
+  },
+   {
+    "id": 241,
+    "name": "Gapuz Grape Farm",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/grape.jpg",
+    "price": 30,
+    "priceCurrency": "Php",
+     "lat": 16.4610917,
+    "lng":120.3317155
+  },
+   {
+    "id": 251,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/baluarte.jpg",
+    "price": 40,
+    "priceCurrency": "Php",
+     "lat": 16.856813,
+    "lng":120.3706728
+  },
+   {
+    "id": 261,
+    "name": "Basilica Minore of Our Lady of Charity",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/basilica.jpg",
+    "price": 40,
+    "priceCurrency": "Php",
+     "lat": 16.3247042,
+    "lng":120.3514937
+  },
+   {
+    "id": 271,
+    "name": "Eagle of the North",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/eagle.jpg",
+    "price": 40,
+    "priceCurrency": "Php",
+     "lat": 16.3298038,
+    "lng":120.365885
+  },
+   {
+    "id": 281,
+    "name": "La Union Botanical and Zoological Garden ",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/botanical.jpg",
+    "price": 40,
+    "priceCurrency": "Php",
+     "lat":16.5873385,
+    "lng":120.3637176
+  },
+   {
+    "id": 291,
+    "name": "Bust of Ferdinand Marcos ",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/marcos.jpg",
+    "price": 70,
+    "priceCurrency": "Php",
+     "lat":16.3537218,
+    "lng":120.4877301
+  },
+   {
+    "id": 301,
+    "name": "Balay Anito Falls",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/balay.jpg",
+    "price": 50,
+    "priceCurrency": "Php",
+     "lat":16.7379195,
+    "lng":120.4523876
+  },
+  {
+    "id": 302,
+    "name": "USAFFE-NL Military Shrine and Park",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/park.jpg",
+    "price": 60,
+    "priceCurrency": "Php",
+     "lat":16.8208887,
+    "lng":120.3333914
+  },
+    {
+    "id": 303,
+    "name": "Old Lighthouse",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/old.jpg",
+    "price": 12,
+    "priceCurrency": "Php",
+     "lat":16.6148319,
+    "lng":120.278264
+  },
+   {
+    "id": 313,
+    "name": "House",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/house.png",
+    "price": 15,
+    "priceCurrency": "Php",
+     "lat": 16.6921704,
+    "lng":120.3370037
+  }
+]
 
