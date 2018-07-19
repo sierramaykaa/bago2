@@ -111,10 +111,37 @@
     "id": 291,
     "name": "Bust of Ferdinand Marcos ",
     "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/marcos.jpg",
-    "price": 40,
+    "price": 70,
     "priceCurrency": "Php",
      "lat":16.3537218,
     "lng":120.4877301
+  },
+   {
+    "id": 301,
+    "name": "Balay Anito Falls",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/balay.jpg",
+    "price": 50,
+    "priceCurrency": "Php",
+     "lat":16.7379195,
+    "lng":120.4523876
+  },
+  {
+    "id": 302,
+    "name": "USAFFE-NL Military Shrine and Park",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/park.jpg",
+    "price": 60,
+    "priceCurrency": "Php",
+     "lat":16.8208887,
+    "lng":120.3333914
+  },
+    {
+    "id": 303,
+    "name": "Old Lighthouse",
+    "imageUrl": "https://raw.githubusercontent.com/sierramaykaa/bago2/master/images/old.jpg",
+    "price": 12,
+    "priceCurrency": "Php",
+     "lat":16.6148319,
+    "lng":120.278264
   },
    {
     "id": 313,
